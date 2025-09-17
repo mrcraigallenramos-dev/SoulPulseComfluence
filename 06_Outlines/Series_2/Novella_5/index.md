@@ -1,0 +1,18 @@
+﻿# Gears of Liberation - Reading Order
+
+1. [[S2N5_CH01]]
+2. [[S2N5_CH02]]
+3. [[S2N5_CH03]]
+4. [[S2N5_IntA|Interlude A]]
+5. [[S2N5_CH04]]
+6. [[S2N5_CH05]]
+7. [[S2N5_CH06]]
+8. [[S2N5_CH07]]
+9. [[S2N5_CH08]]
+10. [[S2N5_CH09]]
+11. [[S2N5_IntB|Interlude B]]
+12. [[S2N5_CH10]]
+13. [[S2N5_CH11]]
+14. [[S2N5_CH12]]
+15. [[S2N5_CH13]]
+16. [[S2N5_Epilogue]]
