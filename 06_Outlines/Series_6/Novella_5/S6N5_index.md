@@ -1,0 +1,18 @@
+﻿# The Final Truth â€“ Reading Order
+
+1. [[S6N5_CH01]]
+2. [[S6N5_CH02]]
+3. [[S6N5_CH03]]
+4. [[S6N5_IntA|Interlude A]]
+5. [[S6N5_CH04]]
+6. [[S6N5_CH05]]
+7. [[S6N5_CH06]]
+8. [[S6N5_CH07]]
+9. [[S6N5_CH08]]
+10. [[S6N5_CH09]]
+11. [[S6N5_IntB|Interlude B]]
+12. [[S6N5_CH10]]
+13. [[S6N5_CH11]]
+14. [[S6N5_CH12|TIFFANI RETURNS]]
+15. [[S6N5_CH13|AUDITOR IDENTITY REVEALED]]
+16. [[S6N5_Epilogue|ULTIMATE TRUTH]]
