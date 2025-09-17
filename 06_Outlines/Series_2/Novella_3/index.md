@@ -1,0 +1,18 @@
+﻿# Mechanisms of Control - Reading Order
+
+1. [[S2N3_CH01]]
+2. [[S2N3_CH02]]
+3. [[S2N3_CH03]]
+4. [[S2N3_CH04]]
+5. [[S2N3_IntA|Interlude A]]
+6. [[S2N3_CH05]]
+7. [[S2N3_CH06]]
+8. [[S2N3_CH07]]
+9. [[S2N3_CH08]]
+10. [[S2N3_CH09]]
+11. [[S2N3_CH10]]
+12. [[S2N3_IntB|Interlude B]]
+13. [[S2N3_CH11]]
+14. [[S2N3_CH12]]
+15. [[S2N3_CH13]]
+16. [[S2N3_Epilogue]]

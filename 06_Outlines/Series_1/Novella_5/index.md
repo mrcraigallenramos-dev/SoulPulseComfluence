@@ -1,0 +1,18 @@
+﻿# The Fractured Chorus â€“ Reading Order
+
+1. [[S1N5_CH01]]
+2. [[S1N5_CH02]]
+3. [[S1N5_CH03]]
+4. [[S1N5_CH04]]
+5. [[S1N5_IntA|Interlude A]]
+6. [[S1N5_CH05]]
+7. [[S1N5_CH06]]
+8. [[S1N5_CH07]]
+9. [[S1N5_CH08]]
+10. [[S1N5_CH09]]
+11. [[S1N5_IntB|Interlude B]]
+12. [[S1N5_CH10]]
+13. [[S1N5_CH11]]
+14. [[S1N5_CH12]]
+15. [[S1N5_CH13]]
+16. [[S1N5_Epilogue]]

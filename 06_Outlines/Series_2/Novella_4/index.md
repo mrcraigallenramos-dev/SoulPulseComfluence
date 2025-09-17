@@ -1,0 +1,18 @@
+﻿# The Clockwork Rebellion - Reading Order
+
+1. [[S2N4_CH01]]
+2. [[S2N4_IntA|Interlude A]]
+3. [[S2N4_CH02]]
+4. [[S2N4_CH03]]
+5. [[S2N4_CH04]]
+6. [[S2N4_CH05]]
+7. [[S2N4_CH06]]
+8. [[S2N4_CH07]]
+9. [[S2N4_IntB|Interlude B]]
+10. [[S2N4_CH08]]
+11. [[S2N4_CH09]]
+12. [[S2N4_CH10]]
+13. [[S2N4_CH11]]
+14. [[S2N4_CH12]]
+15. [[S2N4_CH13]]
+16. [[S2N4_Epilogue]]

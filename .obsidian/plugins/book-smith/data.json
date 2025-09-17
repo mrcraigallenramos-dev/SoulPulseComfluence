@@ -1,0 +1,95 @@
+{
+  "defaultAuthor": "Ramos",
+  "defaultBookPath": "books",
+  "lastBookId": "",
+  "templates": {
+    "default": "default",
+    "custom": {
+      "default": {
+        "name": "default",
+        "description": "包含前言、大纲、正文卷章和后记的标准结构",
+        "structure": {
+          "tree": [
+            {
+              "id": "preface",
+              "title": "前言",
+              "type": "file",
+              "path": "前言.md",
+              "order": 0,
+              "default_status": "draft",
+              "created_at": "2025-09-11T09:16:31.611Z",
+              "last_modified": "2025-09-11T09:16:31.614Z"
+            },
+            {
+              "id": "outline",
+              "title": "大纲",
+              "type": "file",
+              "path": "大纲.md",
+              "order": 1,
+              "default_status": "draft",
+              "created_at": "2025-09-11T09:16:31.614Z",
+              "last_modified": "2025-09-11T09:16:31.614Z"
+            },
+            {
+              "id": "volume1",
+              "title": "第一卷",
+              "type": "group",
+              "path": "第一卷",
+              "order": 2,
+              "default_status": "draft",
+              "is_expanded": true,
+              "created_at": "2025-09-11T09:16:31.614Z",
+              "last_modified": "2025-09-11T09:16:31.614Z",
+              "children": [
+                {
+                  "id": "chapter1",
+                  "title": "第一章",
+                  "type": "file",
+                  "path": "第一卷/第一章.md",
+                  "order": 0,
+                  "default_status": "draft",
+                  "created_at": "2025-09-11T09:16:31.614Z",
+                  "last_modified": "2025-09-11T09:16:31.614Z"
+                },
+                {
+                  "id": "chapter2",
+                  "title": "第二章",
+                  "type": "file",
+                  "path": "第一卷/第二章.md",
+                  "order": 1,
+                  "default_status": "draft",
+                  "created_at": "2025-09-11T09:16:31.614Z",
+                  "last_modified": "2025-09-11T09:16:31.614Z"
+                }
+              ]
+            },
+            {
+              "id": "afterword",
+              "title": "后记",
+              "type": "file",
+              "path": "后记.md",
+              "order": 3,
+              "default_status": "draft",
+              "created_at": "2025-09-11T09:16:31.614Z",
+              "last_modified": "2025-09-11T09:16:31.614Z"
+            }
+          ]
+        },
+        "isBuiltin": true
+      }
+    }
+  },
+  "tools": {
+    "assistant": true,
+    "export": true,
+    "community": true
+  },
+  "focus": {
+    "workDuration": 25,
+    "breakDuration": 5,
+    "wordGoal": 500,
+    "stats": {
+      "dailyStats": {}
+    }
+  }
+}
