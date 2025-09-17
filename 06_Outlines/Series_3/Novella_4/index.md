@@ -1,0 +1,18 @@
+﻿# The Convergence Point - Reading Order
+
+1. [[S3N4_CH01]]
+2. [[S3N4_CH02]]
+3. [[S3N4_CH03]]
+4. [[S3N4_IntA|Interlude A]]
+5. [[S3N4_CH04]]
+6. [[S3N4_CH05]]
+7. [[S3N4_CH06]]
+8. [[S3N4_CH07]]
+9. [[S3N4_CH08]]
+10. [[S3N4_CH09]]
+11. [[S3N4_IntB|Interlude B]]
+12. [[S3N4_CH10]]
+13. [[S3N4_CH11]]
+14. [[S3N4_CH12]]
+15. [[S3N4_CH13]]
+16. [[S3N4_Epilogue]]
