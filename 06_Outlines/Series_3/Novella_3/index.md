@@ -1,0 +1,18 @@
+﻿# The Shattered Paradigm - Reading Order
+
+1. [[S3N3_CH01]]
+2. [[S3N3_IntA|Interlude A]]
+3. [[S3N3_CH02]]
+4. [[S3N3_CH03]]
+5. [[S3N3_CH04]]
+6. [[S3N3_CH05]]
+7. [[S3N3_CH06]]
+8. [[S3N3_CH07]]
+9. [[S3N3_IntB|Interlude B]]
+10. [[S3N3_CH08]]
+11. [[S3N3_CH09]]
+12. [[S3N3_CH10]]
+13. [[S3N3_CH11]]
+14. [[S3N3_CH12]]
+15. [[S3N3_CH13]]
+16. [[S3N3_Epilogue]]
