@@ -1,0 +1,18 @@
+﻿# Cosmic Renaissance â€“ Reading Order
+
+1. [[S4N4_CH01]]
+2. [[S4N4_CH02]]
+3. [[S4N4_IntA|Interlude A]]
+4. [[S4N4_CH03]]
+5. [[S4N4_CH04]]
+6. [[S4N4_CH05]]
+7. [[S4N4_CH06]]
+8. [[S4N4_CH07]]
+9. [[S4N4_IntB|Interlude B]]
+10. [[S4N4_CH08]]
+11. [[S4N4_CH09]]
+12. [[S4N4_CH10]]
+13. [[S4N4_CH11]]
+14. [[S4N4_CH12]]
+15. [[S4N4_CH13]]
+16. [[S4N4_Epilogue]]

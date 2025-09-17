@@ -1,0 +1,18 @@
+﻿# Eternal Ascent â€“ Reading Order
+
+1. [[S4N3_CH01]]
+2. [[S4N3_CH02]]
+3. [[S4N3_CH03]]
+4. [[S4N3_IntA|Interlude A]]
+5. [[S4N3_CH04]]
+6. [[S4N3_CH05]]
+7. [[S4N3_CH06]]
+8. [[S4N3_CH07]]
+9. [[S4N3_CH08]]
+10. [[S4N3_CH09]]
+11. [[S4N3_IntB|Interlude B]]
+12. [[S4N3_CH10]]
+13. [[S4N3_CH11]]
+14. [[S4N3_CH12]]
+15. [[S4N3_CH13]]
+16. [[S4N3_Epilogue]]
