@@ -1,0 +1,18 @@
+﻿# The Hidden Architects â€“ Reading Order
+
+1. [[S6N2_CH01]]
+2. [[S6N2_CH02]]
+3. [[S6N2_IntA|Interlude A]]
+4. [[S6N2_CH03]]
+5. [[S6N2_CH04]]
+6. [[S6N2_CH05]]
+7. [[S6N2_CH06]]
+8. [[S6N2_CH07]]
+9. [[S6N2_CH08]]
+10. [[S6N2_IntB|Interlude B]]
+11. [[S6N2_CH09]]
+12. [[S6N2_CH10]]
+13. [[S6N2_CH11]]
+14. [[S6N2_CH12]]
+15. [[S6N2_CH13]]
+16. [[S6N2_Epilogue]]
