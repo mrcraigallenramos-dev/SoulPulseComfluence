@@ -1,19 +1,28 @@
-﻿---
+---
 series: 2
 novella: 1
 file: S2N1_IntA
 type: interlude
-label: A
 pov: Leesa
-setting: Harmony heartland
+setting: Harmony Collective enclave — harvest halls
 word_target_min: 801
 word_target_max: 1299
 status: outline
+theme: Post-Fathombreak — Divine factions recruit, Found Family forms
 ---
-Logline: Leesa counts the cost of peace and finds a bruise she cannot press flat.
+# Divine Awakening
 
-Beats:
-- Communes hum; art dims; arguments vanish; children smile the same smile.
-- She models futures with zero painâ€”and zero surprise.
-- A single grief note persists in her calculus: the Catalyst's refusal as necessary dissonance.
-- She pauses her netâ€”an immortal's first restraint.
+**Logline:** Leesa (Eries’s hidden avatar) hears the unified pulse of grateful farmers and embraces her role as Wholeness goddess.
+
+## Divine Opposition Arc
+- **Mortal Life:** Leesa tending harvest on kinetic fields.
+- **Faction Building:** First Harmony recruiters gather acolytes.
+- **Cosmic Purpose:** Her compassion forges unity—power source for divine friction.
+
+## Beat Breakdown
+- Morning hymn swells as crops heal under her whisper.
+- Emotional resonance binds grateful crowds into choir.
+- Leesa feels the divine tug—harmony that demands control.
+- She trades comfort for doctrine: all must conform for true unity.
+- Leaves harvest fields with new disciples in tow.
+
