@@ -1,0 +1,18 @@
+﻿# Galactic Confluence â€“ Reading Order
+
+1. [[S5N2_CH01]]
+2. [[S5N2_CH02]]
+3. [[S5N2_IntA|Interlude A]]
+4. [[S5N2_CH03]]
+5. [[S5N2_CH04]]
+6. [[S5N2_CH05]]
+7. [[S5N2_CH06]]
+8. [[S5N2_CH07]]
+9. [[S5N2_CH08]]
+10. [[S5N2_IntB|Interlude B]]
+11. [[S5N2_CH09]]
+12. [[S5N2_CH10]]
+13. [[S5N2_CH11]]
+14. [[S5N2_CH12]]
+15. [[S5N2_CH13]]
+16. [[S5N2_Epilogue]]
