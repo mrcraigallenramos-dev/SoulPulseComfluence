@@ -1,0 +1,18 @@
+﻿# Ascensionâ€™s End â€“ Reading Order
+
+1. [[S4N5_CH01]]
+2. [[S4N5_CH02]]
+3. [[S4N5_CH03]]
+4. [[S4N5_IntA|Interlude A]]
+5. [[S4N5_CH04]]
+6. [[S4N5_CH05]]
+7. [[S4N5_CH06]]
+8. [[S4N5_CH07]]
+9. [[S4N5_IntB|Interlude B]]
+10. [[S4N5_CH08]]
+11. [[S4N5_CH09]]
+12. [[S4N5_CH10]]
+13. [[S4N5_CH11]]
+14. [[S4N5_CH12]]
+15. [[S4N5_CH13]]
+16. [[S4N5_Epilogue]]
