@@ -1,0 +1,18 @@
+﻿# Transcendence Odyssey â€“ Reading Order
+
+1. [[S5N3_CH01]]
+2. [[S5N3_CH02]]
+3. [[S5N3_CH03]]
+4. [[S5N3_IntA|Interlude A]]
+5. [[S5N3_CH04]]
+6. [[S5N3_CH05]]
+7. [[S5N3_CH06]]
+8. [[S5N3_CH07]]
+9. [[S5N3_CH08]]
+10. [[S5N3_IntB|Interlude B]]
+11. [[S5N3_CH09]]
+12. [[S5N3_CH10]]
+13. [[S5N3_CH11]]
+14. [[S5N3_CH12]]
+15. [[S5N3_CH13]]
+16. [[S5N3_Epilogue]]

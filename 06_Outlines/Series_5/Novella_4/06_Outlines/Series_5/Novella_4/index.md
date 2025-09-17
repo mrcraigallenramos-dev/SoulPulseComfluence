@@ -1,0 +1,18 @@
+﻿# Infinite Frontier â€“ Reading Order
+
+1. [[S5N4_CH01]]
+2. [[S5N4_CH02]]
+3. [[S5N4_IntA|Interlude A]]
+4. [[S5N4_CH03]]
+5. [[S5N4_CH04]]
+6. [[S5N4_CH05]]
+7. [[S5N4_CH06]]
+8. [[S5N4_CH07]]
+9. [[S5N4_CH08]]
+10. [[S5N4_IntB|Interlude B]]
+11. [[S5N4_CH09]]
+12. [[S5N4_CH10]]
+13. [[S5N4_CH11]]
+14. [[S5N4_CH12]]
+15. [[S5N4_CH13]]
+16. [[S5N4_Epilogue]]
