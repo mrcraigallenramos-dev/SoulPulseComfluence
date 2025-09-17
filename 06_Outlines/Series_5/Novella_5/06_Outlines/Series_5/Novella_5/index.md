@@ -1,0 +1,18 @@
+﻿# Eternal Becoming â€“ Reading Order
+
+1. [[S5N5_CH01]]
+2. [[S5N5_CH02]]
+3. [[S5N5_CH03]]
+4. [[S5N5_IntA|Interlude A]]
+5. [[S5N5_CH04]]
+6. [[S5N5_CH05]]
+7. [[S5N5_CH06]]
+8. [[S5N5_CH07]]
+9. [[S5N5_CH08]]
+10. [[S5N5_CH09]]
+11. [[S5N5_IntB|Interlude B]]
+12. [[S5N5_CH10]]
+13. [[S5N5_CH11]]
+14. [[S5N5_CH12]]
+15. [[S5N5_CH13]]
+16. [[S5N5_Epilogue]]
