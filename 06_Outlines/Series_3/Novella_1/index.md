@@ -1,0 +1,18 @@
+﻿# The Confluence Trials - Reading Order
+
+1. [[S3N1_CH01]]
+2. [[S3N1_CH02]]
+3. [[S3N1_IntA|Interlude A]]
+4. [[S3N1_CH03]]
+5. [[S3N1_CH04]]
+6. [[S3N1_CH05]]
+7. [[S3N1_CH06]]
+8. [[S3N1_CH07]]
+9. [[S3N1_CH08]]
+10. [[S3N1_IntB|Interlude B]]
+11. [[S3N1_CH09]]
+12. [[S3N1_CH10]]
+13. [[S3N1_CH11]]
+14. [[S3N1_CH12]]
+15. [[S3N1_CH13]]
+16. [[S3N1_Epilogue]]
