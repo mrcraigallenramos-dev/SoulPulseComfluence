@@ -1,0 +1,18 @@
+﻿# The Counter-Spark â€“ Reading Order
+
+1. [[S6N3_CH01]]
+2. [[S6N3_CH02]]
+3. [[S6N3_CH03]]
+4. [[S6N3_IntA|Interlude A]]
+5. [[S6N3_CH04]]
+6. [[S6N3_CH05]]
+7. [[S6N3_CH06]]
+8. [[S6N3_CH07]]
+9. [[S6N3_CH08]]
+10. [[S6N3_CH09]]
+11. [[S6N3_IntB|Interlude B]]
+12. [[S6N3_CH10]]
+13. [[S6N3_CH11]]
+14. [[S6N3_CH12]]
+15. [[S6N3_CH13]]
+16. [[S6N3_Epilogue]]
